@@ -6,8 +6,8 @@ Analyze the relationship between Bitcoin market sentiment (Fear & Greed Index) a
 
 ## Datasets
 
-1. Bitcoin Fear & Greed Index Dataset
-2. Hyperliquid Historical Trader Dataset
+1. Bitcoin Fear & Greed Index Dataset : https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view
+2. Hyperliquid Historical Trader Dataset : https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view
 
 ## Methodology
 
